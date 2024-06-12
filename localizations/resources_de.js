@@ -1,7 +1,7 @@
 const resources_de = {
   pageTitle: "Manifesto",
   logoAlt: "Logo der Marke",
-  productName: "Rock mit Geheimnissen",
+productName: "Gadsden Dress",
   imageAlt: "Foto des Artikels",
   menuItems: [
     "Produktcode",
