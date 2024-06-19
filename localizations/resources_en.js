@@ -8,7 +8,7 @@ productName: "Gadsden Dress",
     "Materials",
     "Care instructions",
     "Product journey",
-    "Why do I need a blockchain passport?",
+    "Why do I need a Blockchain Passport?",
     "Contact Me"
   ],
   info1: [
@@ -28,10 +28,10 @@ productName: "Gadsden Dress",
     "Dry Clean with Tetrachloroethylene"
   ],
   info4: [
-    "Step 1. Fiber: Como, Italy"
-    "Step 2. Dye: Como, Italy"
-    "Step 3. Tailoring: Barcelona, España"
-    "Step 4. Quality control: Barcelona, España"
+    "Step 1. Fiber: Como, Italy",
+    "Step 2. Dye: Como, Italy",
+    "Step 3. Tailoring: Barcelona, España",
+    "Step 4. Quality control: Barcelona, España",
     "Step 5. Labeling and packaging: Barcelona, España"
   ],
   info5: [
